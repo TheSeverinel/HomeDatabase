@@ -1,0 +1,13 @@
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.csprojAssemblyReference.cache
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.Properties.Resources.resources
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.csproj.GenerateResource.cache
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\bin\Debug\HomeDatabase.exe.config
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\bin\Debug\HomeDatabase.exe
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\bin\Debug\HomeDatabase.pdb
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.exe
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.pdb
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.info_window.resources
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.Base_window.resources
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.Search_window.resources
+C:\Users\marcin\source\repos\HomeDatabase\HomeDatabase\obj\Debug\HomeDatabase.add_window.resources
